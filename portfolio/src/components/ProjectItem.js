@@ -1,6 +1,6 @@
 import React from 'react'
   
-const ProjectItem = (props) => {
+const ProjectItem = () => {
   return (
     <div className="projectItem">
       <div styles={{backgroundImage: `url(${image})`}} className="bgImage" />
