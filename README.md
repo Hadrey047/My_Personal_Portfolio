@@ -2,9 +2,8 @@
 
 # Olayanju Oluwadamilare Samuel Portfolio
 
-Welcome to my portfolio! I'm [Your Name], a [Your Profession/Role] passionate about [Your Passion or Interest]. Here, you'll find a collection of my projects and a bit about me.
+Welcome to my portfolio! I'm Olayanju Oluwadamilare Samuel, a Web Programme passionate about programming. Here, you'll find a collection of my projects and a bit about me.
 
-![Profile Picture](profile-picture.jpg)
 
 ## About Me
 
@@ -14,17 +13,15 @@ Briefly introduce yourself. Mention your background, skills, and what you're pas
 
 Here are some of the projects I've worked on:
 
-### Project 1: Project Name
+### Project 1: Student Portal
 
 Description: A brief description of the project, including its purpose and technologies used.
 
-![Project 1 Screenshot](project1-screenshot.jpg)
+![Kano Girl College](project1-screenshot.jpg)
 
-GitHub Repository: [Link to GitHub Repo](https://github.com/yourusername/project1)
+GitHub Repository: [Link to GitHub Repo](https://https://github.com/Hadrey047)
 
-Live Demo: [Link to Live Demo](https://www.example.com)
-
-### Project 2: Project Name
+Decency Nclex Academy
 
 Description: Another project description.
 
@@ -42,9 +39,10 @@ Feel free to explore more of my projects on my [GitHub profile](https://github.c
 
 You can reach out to me through the following channels:
 
-- Email: [Your Email Address](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
+- Email: [Your Email Address](os.olayanju@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/oluwadamilare-olayanju-4677a3b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BL0STiwp0TvKXhHlye8clZw%3D%3D)
+
+- Twitter: [TwitterHandle](https://twitter.com/@dareolayanju)
 
 ## Resume
 
